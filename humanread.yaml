@@ -1,0 +1,624 @@
+version: 1
+title: 'Journey to the West: Complete English Translation'
+slug: journey-to-the-west-complete-english-translation-b08214
+summary: A complete one-hundred-chapter fresh English translation of Wu Cheng’en’s
+  public-domain Journey to the West, produced with GPT-5.3-Codex-Spark assistance.
+  This is an AI-assisted first edition, not a reproduction of an existing translation.
+cover_color: '#274C5E'
+author: Humanread Founder
+metadata:
+  age_rating: teen
+  content_warnings: Fantasy violence, death, threats of cannibalism, and limited sexual
+    or marriage-related material
+  language: en
+  primary_genre: adventure
+  secondary_genre: fantasy
+  serial_status: completed
+  tags:
+  - Journey to the West
+  - Wu Cheng’en
+  - complete translation
+  - Chinese classic
+  - English edition
+  warning_level: moderate
+translation: null
+chapters:
+- id: 355
+  title: 'Chapter 1: The spiritual root matures and its source flows forth; the cultivation
+    of heart and nature gives birth to the Great Way.'
+  position: 1
+  file: chapters/0001-355.html
+  format: sanitized-html
+- id: 356
+  title: 'Chapter 2: The true and wondrous principle of Bodhi is fully understood;
+    demons are cut off and restored to the primal spirit.'
+  position: 2
+  file: chapters/0002-356.html
+  format: sanitized-html
+- id: 357
+  title: 'Chapter 3: All under heaven and a thousand peaks submit in submission; in
+    nine abysses and ten realms the evil names are erased.'
+  position: 3
+  file: chapters/0003-357.html
+  format: sanitized-html
+- id: 358
+  title: 'Chapter 4: What worth is an official horse-tamer’s seal? The title “Equal
+    to Heaven” still leaves his mind at restlessness.'
+  position: 4
+  file: chapters/0004-358.html
+  format: sanitized-html
+- id: 359
+  title: 'Chapter 5: The Great Sage stirs chaos in the Peach Garden and steals the
+    elixir; he rebellions in Heaven while the gods seek to seize the demon.'
+  position: 5
+  file: chapters/0005-359.html
+  format: sanitized-html
+- id: 360
+  title: 'Chapter 6: Guanyin attends the celestial gathering to ask why; the young
+    sage shows wondrous might and subdues the Great Sage.'
+  position: 6
+  file: chapters/0006-360.html
+  format: sanitized-html
+- id: 361
+  title: 'Chapter 7: Wukong escapes the Eight-Trigram Furnace; beneath Five-Element
+    Mountain the monkey sets his mind in stillness.'
+  position: 7
+  file: chapters/0007-361.html
+  format: sanitized-html
+- id: 362
+  title: 'Chapter 8: The Buddha establishes the scriptural order of the Western bliss
+    realm; Guanyin obeys the command and ascends to Chang’an.'
+  position: 8
+  file: chapters/0008-362.html
+  format: sanitized-html
+- id: 363
+  title: 'Chapter 9: Chen Guangrui meets disaster in his post; monk Jiangliu returns
+    and avenges the old bond.'
+  position: 9
+  file: chapters/0009-363.html
+  format: sanitized-html
+- id: 364
+  title: 'Chapter 10: The Old Dragon King’s clumsy scheme breaks Heaven’s law; Chancellor
+    Wei entrusts his final letter to the netherworld clerk.'
+  position: 10
+  file: chapters/0010-364.html
+  format: sanitized-html
+- id: 365
+  title: 'Chapter 11: Tang Taizong visits the underworld and returns to life; gifts
+    of melons and gourds carry Liu Quan onward in his marriage fate.'
+  position: 11
+  file: chapters/0011-365.html
+  format: sanitized-html
+- id: 366
+  title: 'Chapter 12: King Tang keeps faith through a solemn great assembly; Guanyin
+    reveals her holiness and transforms the Golden Cicada.'
+  position: 12
+  file: chapters/0012-366.html
+  format: sanitized-html
+- id: 367
+  title: 'Chapter 13: Into Tiger-Nest Grotto, Venus rescues him from calamity; at
+    Shuangcha Ridge, Master Beqin holds the monk.'
+  position: 13
+  file: chapters/0013-367.html
+  format: sanitized-html
+- id: 368
+  title: 'Chapter 14: The Mind-Monkey returns to rectitude; the six thieves leave
+    no trace.'
+  position: 14
+  file: chapters/0014-368.html
+  format: sanitized-html
+- id: 369
+  title: 'Chapter 15: At Snake-Coiled Mountain the gods give secret aid; at Eagle’s-Mourning
+    Ravine the unbridled horse of intention is reined.'
+  position: 15
+  file: chapters/0015-369.html
+  format: sanitized-html
+- id: 370
+  title: 'Chapter 16: The abbots at Guanyin Monastery scheme for precious jewels;
+    in Black Wind Mountain a fiend steals the monk’s robe.'
+  position: 16
+  file: chapters/0016-370.html
+  format: sanitized-html
+- id: 371
+  title: 'Chapter 17: Sun Wukong storms Black Wind Mountain; Guanyin then subdues
+    the bear-and-lion demon.'
+  position: 17
+  file: chapters/0017-371.html
+  format: sanitized-html
+- id: 372
+  title: 'Chapter 18: At Guanyin’s monastery Tang Monk is delivered from danger; Elder
+    Gao of the Gao Manor exorcises the demon.'
+  position: 18
+  file: chapters/0018-372.html
+  format: sanitized-html
+- id: 373
+  title: 'Chapter 19: In Yunchan Cave Wukong takes Pigsy in; on Buddha-Pagoda Mountain
+    Xuanzang receives the Heart Sutra.'
+  position: 19
+  file: chapters/0019-373.html
+  format: sanitized-html
+- id: 374
+  title: 'Chapter 20: Tang Monk meets peril at Yellow-Wind Ridge; at Half-Mountain
+    Pigsy jostles ahead to the fore.'
+  position: 20
+  file: chapters/0020-374.html
+  format: sanitized-html
+- id: 375
+  title: 'Chapter 21: The Dharma-Protector sets a camp to hold the Great Sage; Lingji
+    of Mount Sumeru restrains the wind demon.'
+  position: 21
+  file: chapters/0021-375.html
+  format: sanitized-html
+- id: 376
+  title: 'Chapter 22: Pigsy wages battle at Flowing-Sand River; a wood-guardian monk
+    receives Wujing under the Dharma.'
+  position: 22
+  file: chapters/0022-376.html
+  format: sanitized-html
+- id: 377
+  title: 'Chapter 23: Tripitaka never forgets his origin; the Four Holy Ones test
+    the mind of Chan.'
+  position: 23
+  file: chapters/0023-377.html
+  format: sanitized-html
+- id: 378
+  title: 'Chapter 24: Immortal Zhenyuan of Wanshou Mountain detains an old companion;
+    at Wuzhuang Monastery the Wanderer steals people’s ginseng.'
+  position: 24
+  file: chapters/0024-378.html
+  format: sanitized-html
+- id: 379
+  title: 'Chapter 25: Zhenyuan captures the scripture-seeker in a pursuit; Sun Wukong
+    later wreaks havoc in Wuzhuang Monastery.'
+  position: 25
+  file: chapters/0025-379.html
+  format: sanitized-html
+- id: 380
+  title: 'Chapter 26: Wukong sails the Three Islands in search of methods; Guanyin
+    of Sweet-Spring revives a dying tree.'
+  position: 26
+  file: chapters/0026-380.html
+  format: sanitized-html
+- id: 381
+  title: 'Chapter 27: A corpse demon toys with Tripitaka three times; the saintly
+    monk regrets the Beautiful Monkey King.'
+  position: 27
+  file: chapters/0027-381.html
+  format: sanitized-html
+- id: 382
+  title: 'Chapter 28: At Flower-Fruit Mountain the demons band together in fellowship;
+    in Black Pine Forest Tang Monk encounters a fiend.'
+  position: 28
+  file: chapters/0028-382.html
+  format: sanitized-html
+- id: 383
+  title: 'Chapter 29: Rescue in the river-realm relieves Tang Monk’s distress; in
+    gratitude Pigsy turns through the mountain-woods.'
+  position: 29
+  file: chapters/0029-383.html
+  format: sanitized-html
+- id: 384
+  title: 'Chapter 30: An evil demon invades the true Dharma; the wayward horse of
+    intention remembers the Mind-Monkey.'
+  position: 30
+  file: chapters/0030-384.html
+  format: sanitized-html
+- id: 385
+  title: 'Chapter 31: Pigsy’s righteous fervor rouses the Monkey King; Wukong with
+    wit subdues the demon.'
+  position: 31
+  file: chapters/0031-385.html
+  format: sanitized-html
+- id: 386
+  title: 'Chapter 32: The registrar of Pingding Mountain sends word; in Lotus Cave
+    Mother Mu meets calamity.'
+  position: 32
+  file: chapters/0032-386.html
+  format: sanitized-html
+- id: 387
+  title: 'Chapter 33: Heterodox teachings confuse true nature; the primal spirit restores
+    the original mind.'
+  position: 33
+  file: chapters/0033-387.html
+  format: sanitized-html
+- id: 388
+  title: 'Chapter 34: The Demon King’s subtle stratagems entrap the Mind-Monkey; the
+    Great Sage shifts forms and steals the holy treasure.'
+  position: 34
+  file: chapters/0034-388.html
+  format: sanitized-html
+- id: 389
+  title: 'Chapter 35: Heresy exerts power to deceive true nature; the Mind-Monkey
+    gains the treasure and subdues the fiend.'
+  position: 35
+  file: chapters/0035-389.html
+  format: sanitized-html
+- id: 390
+  title: 'Chapter 36: The Mind-Monkey faces all conditions aright; splitting open
+    the side-gate, he sees the moonlit light.'
+  position: 36
+  file: chapters/0036-390.html
+  format: sanitized-html
+- id: 391
+  title: 'Chapter 37: At night a ghost-king visits Tripitaka; Wukong’s divination
+    draws forth the hidden child.'
+  position: 37
+  file: chapters/0037-391.html
+  format: sanitized-html
+- id: 392
+  title: 'Chapter 38: The infant questions its mother to discern right from wrong;
+    Jinmu and Canyuan perceive falsehood from truth.'
+  position: 38
+  file: chapters/0038-392.html
+  format: sanitized-html
+- id: 393
+  title: 'Chapter 39: A single grain of cinnabar comes from Heaven; the former lord
+    from three years is reborn in the world.'
+  position: 39
+  file: chapters/0039-393.html
+  format: sanitized-html
+- id: 394
+  title: 'Chapter 40: The child’s capering in illusion upsets Chan-mind; the monkey-horse
+    trick and Mother Mu are left in disarray.'
+  position: 40
+  file: chapters/0040-394.html
+  format: sanitized-html
+- id: 395
+  title: 'Chapter 41: The Mind-Monkey is defeated by fire; Mother Mu is captured by
+    demons.'
+  position: 41
+  file: chapters/0041-395.html
+  format: sanitized-html
+- id: 396
+  title: 'Chapter 42: The Great Sage repeatedly bows in devotion at the South Sea;
+    Guanyin mercifully binds the Red Boy.'
+  position: 42
+  file: chapters/0042-396.html
+  format: sanitized-html
+- id: 397
+  title: 'Chapter 43: A fiend of the Black River carries off the monk; the Dragon
+    Son of the Western Sea returns with the tortoise demon.'
+  position: 43
+  file: chapters/0043-397.html
+  format: sanitized-html
+- id: 398
+  title: 'Chapter 44: The Dharma-body’s primal movement meets the power of the carriage;
+    the pure mind guides demon and man through the Spine Pass.'
+  position: 44
+  file: chapters/0044-398.html
+  format: sanitized-html
+- id: 399
+  title: 'Chapter 45: In the Three-Pristines Temple the Great Sage leaves his mark;
+    in Chechi Kingdom the Monkey King makes the Dharma manifest.'
+  position: 45
+  file: chapters/0045-399.html
+  format: sanitized-html
+- id: 400
+  title: 'Chapter 46: Heterodox force blusters against the true Dharma; the Mind-Monkey
+    reveals its sanctity and destroys all evil.'
+  position: 46
+  file: chapters/0046-400.html
+  format: sanitized-html
+- id: 401
+  title: 'Chapter 47: The holy pilgrim blocks the passage to Heaven’s water by night;
+    Mother Mu of Gold and Wood saves the small child by compassion.'
+  position: 47
+  file: chapters/0047-401.html
+  format: sanitized-html
+- id: 402
+  title: 'Chapter 48: A demon stirs bitter wind and drives down great snow; the monk,
+    in worship, walks on layered ice to Buddha.'
+  position: 48
+  file: chapters/0048-402.html
+  format: sanitized-html
+- id: 403
+  title: 'Chapter 49: Tripitaka meets disaster and sinks into a water-house; Guanyin
+    appears in a fish-basket to save him.'
+  position: 49
+  file: chapters/0049-403.html
+  format: sanitized-html
+- id: 404
+  title: 'Chapter 50: Passion confuses nature through lust and desire; the spirit
+    grows dim, and the heart stirs upon a demon lord.'
+  position: 50
+  file: chapters/0050-404.html
+  format: sanitized-html
+- id: 405
+  title: 'Chapter 51: The Mind-Monkey wastes a thousand plans; water and fire cannot
+    fully temper the demon.'
+  position: 51
+  file: chapters/0051-405.html
+  format: sanitized-html
+- id: 406
+  title: 'Chapter 52: Wukong wreaks havoc in Gold-Dome Cave; Buddha Shakyamuni hints
+    at the true hero.'
+  position: 52
+  file: chapters/0052-406.html
+  format: sanitized-html
+- id: 407
+  title: 'Chapter 53: The Zen master swallows a meal and bears a ghost-born conception;
+    the Yellow Crone brings forth water to undo the evil fetus.'
+  position: 53
+  file: chapters/0053-407.html
+  format: sanitized-html
+- id: 408
+  title: 'Chapter 54: Dharma-Nature comes from the west to the Woman-kingdom; the
+    Mind-Monkey devises a way to escape the smoke and blossoms.'
+  position: 54
+  file: chapters/0054-408.html
+  format: sanitized-html
+- id: 409
+  title: 'Chapter 55: Lustful illusion seduces Tripitaka; steadfast nature keeps his
+    practice from breaking.'
+  position: 55
+  file: chapters/0055-409.html
+  format: sanitized-html
+- id: 410
+  title: 'Chapter 56: Divine frenzy executes the bandits; way-lost thought lets the
+    Mind-Monkey wander astray.'
+  position: 56
+  file: chapters/0056-410.html
+  format: sanitized-html
+- id: 411
+  title: 'Chapter 57: The True Pilgrim voices complaint on Loka Mountain; the false
+    Monkey King copies out petitions in Water-curtain Cave.'
+  position: 57
+  file: chapters/0057-411.html
+  format: sanitized-html
+- id: 412
+  title: 'Chapter 58: Two hearts trouble Heaven and earth; one body finds it hard
+    to realize perfect silent nirvana.'
+  position: 58
+  file: chapters/0058-412.html
+  format: sanitized-html
+- id: 413
+  title: 'Chapter 59: Tripitaka is blocked on the Fire-Fire Mountain road; Wukong
+    adjusts the Banana-Fiber Fan once.'
+  position: 59
+  file: chapters/0059-413.html
+  format: sanitized-html
+- id: 414
+  title: 'Chapter 60: Ox Demon King ends his war and goes to the imperial banquet;
+    Wukong adjusts the Banana-Fiber Fan twice.'
+  position: 60
+  file: chapters/0060-414.html
+  format: sanitized-html
+- id: 415
+  title: 'Chapter 61: Pigsy lends strength to defeat the Demon King; Wukong adjusts
+    the Banana-Fiber Fan a third time.'
+  position: 61
+  file: chapters/0061-415.html
+  format: sanitized-html
+- id: 416
+  title: 'Chapter 62: Washing away stains purifies the heart as one sweeps a tower;
+    binding the demon and returning him to his master is true self-cultivation.'
+  position: 62
+  file: chapters/0062-416.html
+  format: sanitized-html
+- id: 417
+  title: 'Chapter 63: Two monks and their master trouble the Dragon Palace with a
+    demon hunt; all holy ones exorcise evil and win the treasure.'
+  position: 63
+  file: chapters/0063-417.html
+  format: sanitized-html
+- id: 418
+  title: 'Chapter 64: On Thicket Ridge Wuneng strives with all his might; at the Wood-Immortal
+    Hermitage Tripitaka converses on verse.'
+  position: 64
+  file: chapters/0064-418.html
+  format: sanitized-html
+- id: 419
+  title: 'Chapter 65: A demon falsehood feigns a Little Leiyin rite; all four companions
+    fall into grave misfortune.'
+  position: 65
+  file: chapters/0065-419.html
+  format: sanitized-html
+- id: 420
+  title: 'Chapter 66: The gods all suffer cruel harm; Maitreya binds the demons.'
+  position: 66
+  file: chapters/0066-420.html
+  format: sanitized-html
+- id: 421
+  title: 'Chapter 67: Saving Tuo’luo restores a stable Chan nature; released from
+    defilement, his way-mind grows clear.'
+  position: 67
+  file: chapters/0067-421.html
+  format: sanitized-html
+- id: 422
+  title: 'Chapter 68: In Zhuzi Kingdom Tripitaka debates past lives; Wukong performs
+    three transformations, breaking a limb in service.'
+  position: 68
+  file: chapters/0068-422.html
+  format: sanitized-html
+- id: 423
+  title: 'Chapter 69: The Heart-Lord compounds medicine by night; at court banquet
+    the sovereign debates demons and evil spirits.'
+  position: 69
+  file: chapters/0069-423.html
+  format: sanitized-html
+- id: 424
+  title: 'Chapter 70: The demon’s treasure sends out smoke and sand fire; Wukong plans
+    the theft of the Purple-Gold Bell.'
+  position: 70
+  file: chapters/0070-424.html
+  format: sanitized-html
+- id: 425
+  title: 'Chapter 71: Wukong assumes a false name to subdue a monster hound; Guanyin
+    manifests and compels the demon king.'
+  position: 71
+  file: chapters/0071-425.html
+  format: sanitized-html
+- id: 426
+  title: 'Chapter 72: In Spindle-Silk Cave seven emotions cloud the root mind; at
+    Woguo Spring Pigsy forgets himself.'
+  position: 72
+  file: chapters/0072-426.html
+  format: sanitized-html
+- id: 427
+  title: 'Chapter 73: Old grudges give rise to calamity and poison; the Mind-Master
+    is beset by a demon yet escapes in good fortune.'
+  position: 73
+  file: chapters/0073-427.html
+  format: sanitized-html
+- id: 428
+  title: 'Chapter 74: Chang-keng reports the ferocity of the demon lord; Wukong’s
+    transformations reveal their full power.'
+  position: 74
+  file: chapters/0074-428.html
+  format: sanitized-html
+- id: 429
+  title: 'Chapter 75: The Mind-Monkey penetrates yin and yang forms; the demon lord
+    returns at last to the Great Truth.'
+  position: 75
+  file: chapters/0075-429.html
+  format: sanitized-html
+- id: 430
+  title: 'Chapter 76: The mind-spirit abides in its true dwelling and demons return
+    to nature; Mother Mu descends with the monster to reveal their real form.'
+  position: 76
+  file: chapters/0076-430.html
+  format: sanitized-html
+- id: 431
+  title: 'Chapter 77: Demons conspire against innate nature; in one-body vision one
+    bows to true suchness.'
+  position: 77
+  file: chapters/0077-431.html
+  format: sanitized-html
+- id: 432
+  title: 'Chapter 78: The bhikkhu, pitying the child, dispatches a shadow-spirit;
+    in the Golden Hall he discerns demons and speaks of Dharma ethics.'
+  position: 78
+  file: chapters/0078-432.html
+  format: sanitized-html
+- id: 433
+  title: 'Chapter 79: Seeking the cave, they capture a demon and meet Lord Laoshou;
+    in the king’s court the child is rescued.'
+  position: 79
+  file: chapters/0079-433.html
+  format: sanitized-html
+- id: 434
+  title: 'Chapter 80: A lustful girl seeks a virile husband; the Mind-Monkey guards
+    his lord and discerns demon from the true.'
+  position: 80
+  file: chapters/0080-434.html
+  format: sanitized-html
+- id: 435
+  title: 'Chapter 81: At Zhenhai Monastery the Mind-Monkey foresees a fiend; in Black
+    Pine Forest the three pilgrims seek their master.'
+  position: 81
+  file: chapters/0081-435.html
+  format: sanitized-html
+- id: 436
+  title: 'Chapter 82: The lustful maid seeks Yang energy; the primordial spirit defends
+    the Way.'
+  position: 82
+  file: chapters/0082-436.html
+  format: sanitized-html
+- id: 437
+  title: 'Chapter 83: The Mind-Monkey finds the cinnabar-seed source; the lust-maid
+    returns to her own nature.'
+  position: 83
+  file: chapters/0083-437.html
+  format: sanitized-html
+- id: 438
+  title: 'Chapter 84: The inextinguishable vow brings completion of Great Awakening;
+    Dharma King comes to right form in his own nature.'
+  position: 84
+  file: chapters/0084-438.html
+  format: sanitized-html
+- id: 439
+  title: 'Chapter 85: The Mind-Monkey envies Mother Mu; the demon lord calculates
+    how to swallow Chan.'
+  position: 85
+  file: chapters/0085-439.html
+  format: sanitized-html
+- id: 440
+  title: 'Chapter 86: Mother Mu lends force to conquer monsters; Lord Gold casts spells
+    and destroys evil.'
+  position: 86
+  file: chapters/0086-440.html
+  format: sanitized-html
+- id: 441
+  title: 'Chapter 87: The county of Fengxian is blamed for Heaven-sent drought; Great
+    Sage Sun urges merit and sends down rain.'
+  position: 87
+  file: chapters/0087-441.html
+  format: sanitized-html
+- id: 442
+  title: 'Chapter 88: The Chan rite at Yuhua is convened for transformation; the Mind-Monkey
+    and Mu-Tu appoint disciples.'
+  position: 88
+  file: chapters/0088-442.html
+  format: sanitized-html
+- id: 443
+  title: 'Chapter 89: The Yellow Lion spirit feigns a pin-and-bolt feast; Gold-Wood-Tu
+    stirs uproar at Leopard-Head Mountain.'
+  position: 89
+  file: chapters/0089-443.html
+  format: sanitized-html
+- id: 444
+  title: 'Chapter 90: The Lion Master grants and receives in unity; the thief on the
+    path entangles nine spirits in stillness.'
+  position: 90
+  file: chapters/0090-444.html
+  format: sanitized-html
+- id: 445
+  title: 'Chapter 91: At Jinping Prefecture a New-Year lantern rite is seen; in Xuanying
+    Cave Tripitaka submits his memorial.'
+  position: 91
+  file: chapters/0091-445.html
+  format: sanitized-html
+- id: 446
+  title: 'Chapter 92: Three monks battle together on Green Dragon Mountain; Four Stars
+    seize the rhinoceros demon.'
+  position: 92
+  file: chapters/0092-446.html
+  format: sanitized-html
+- id: 447
+  title: 'Chapter 93: In Geiguyuan they question antiquity and speak of causes; in
+    Tianzhu kingly court, the ruler meets his destined mate.'
+  position: 93
+  file: chapters/0093-447.html
+  format: sanitized-html
+- id: 448
+  title: 'Chapter 94: Four monks feast in the imperial flower garden; one monster
+    clings inwardly to lust and joy.'
+  position: 94
+  file: chapters/0094-448.html
+  format: sanitized-html
+- id: 449
+  title: 'Chapter 95: False and true forms are joined, and the Jade Rabbit is caught;
+    True Yin returns to the right path at Lingyuan.'
+  position: 95
+  file: chapters/0095-449.html
+  format: sanitized-html
+- id: 450
+  title: 'Chapter 96: Magistrate Kou receives the High Monk with joy; Tang Elder refuses
+    to crave wealth and rank.'
+  position: 96
+  file: chapters/0096-450.html
+  format: sanitized-html
+- id: 451
+  title: 'Chapter 97: A gold gratuity sent by outer guards is met with demon ambush;
+    the holy manifestation of a hidden spirit rescues the original root.'
+  position: 97
+  file: chapters/0097-451.html
+  format: sanitized-html
+- id: 452
+  title: 'Chapter 98: A monkey can ripen only when the horse is fully tamed and the
+    shell left behind; work fulfilled, the Way is complete.'
+  position: 98
+  file: chapters/0098-452.html
+  format: sanitized-html
+- id: 453
+  title: 'Chapter 99: When ninety-nine reckonings are complete, all demons are cut
+    down; when three-by-three are complete, the Way returns to its root.'
+  position: 99
+  file: chapters/0099-453.html
+  format: sanitized-html
+- id: 454
+  title: 'Chapter 100: The road turns directly home to the Eastern Lands; the Five
+    Saints become the True Ones.'
+  position: 100
+  file: chapters/0100-454.html
+  format: sanitized-html

@@ -5,6 +5,7 @@ summary: A complete one-hundred-chapter fresh English translation of Wu Cheng’
   public-domain Journey to the West, produced with GPT-5.3-Codex-Spark assistance.
   This is an AI-assisted first edition, not a reproduction of an existing translation.
 cover_color: '#274C5E'
+cover_asset: null
 author: Humanread Founder
 metadata:
   age_rating: teen
@@ -21,7 +22,16 @@ metadata:
   - Chinese classic
   - English edition
   warning_level: moderate
-translation: null
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: 14a5bea978e944860e1d6fa476c81833e83704ae21f2e444db7ed91dac2e9b2f
+  source_novel_id: 8
+  source_slug: novel-28b26cd3-36a911
+  source_title: 西遊記全本（繁體中文）
+  source_version_id: 9
+  target_language: en
+  translator: Humanread Founder
 chapters:
 - id: 355
   title: 'Chapter 1: The spiritual root matures and its source flows forth; the cultivation
